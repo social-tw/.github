@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋 we are Unirep Social TW
+Unripe Social TW applies unirep protocol and provides you a completely anonymous social media. All contents on the platform will be on chain. We aim to protect your identity privacy and allow you to enjoy the equality to share your interesting thoughts! 
+
+## Looking for more information?
+Join our [Discord server](https://discord.gg/ERewdVR9). Stay tuned to our upcoming website 🙌🏻
+
+## Ways to contribute
+* 🔧 Work on [open issues](https://github.com/social-tw/social-tw-website/issues)
+* 📦 Suggest new developer tools or share ideas for new features ([Discord Chat](https://discord.gg/ERewdVR9))
+
+## Who are we?
+Unirep Social TW is one of the side projects that originated from Privacy & Scaling Explorations (PSE), a multidisciplinary team supported by the Ethereum Foundation. PSE explores new use cases for zero-knowledge proofs and other cryptographic primitives.
 
 <!--
 
