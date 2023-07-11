@@ -11,8 +11,9 @@ Join our [Discord server](https://discord.gg/ERewdVR9). Stay tuned to our upcom
 * 🔧 Work on [open issues](https://github.com/social-tw/social-tw-website/issues)
 * 📦 Suggest new developer tools or share ideas for new features ([Discord Chat](https://discord.gg/ERewdVR9))
 
-## Who are we?
+<!-- ## Who are we?
 Unirep Social TW is one of the side projects supported by Privacy & Scaling Explorations (PSE), a multidisciplinary team supported by the Ethereum Foundation. PSE explores new use cases for zero-knowledge proofs and other cryptographic primitives.
+-->
 
 <!--
 
