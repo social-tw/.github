@@ -3,8 +3,9 @@ Thank you for investing your time in contributing to our project!
 This guide will give you an overview of the contribution workflow, from opening an issue, creating a PR, reviewing, and merging the PR.
 
 ## How do we start the development? 
-  1. Create the branch under social-tw, and name it with the convention of "purpose/ scope-unit" (E.g. feat/ login-backend)
-  2. Create a pull request and name it with the status and the same name as the branch. E.g. [WIP] feat/post-smart-contract
+  1. Create the branch under social-tw, and name it with the convention of "purpose-scope-unit" (E.g. feat-login-backend)
+     [Reference to more prefix of the branch](https://wadehuanglearning.blogspot.com/2019/05/commit-commit-commit-why-what-commit.html)
+  2. Create a pull request and name it with the status and the same name as the branch. E.g. [WIP] feat-post-smart-contract
   3. Once the development is done, you can ask for a review. The PR can be merged after approval by **at least one other team member**. 
 
 ## Steps for creating good issues.
