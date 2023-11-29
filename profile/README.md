@@ -1,14 +1,16 @@
 ## Hi there 👋 we are Unirep Social TW
-Unirep Social TW applies UniRep protocol and provides you a completely anonymous social media. All contents on the platform will be on chain. We aim to protect your identity privacy and allow you to enjoy the equality to share your interesting thoughts! 
+Unirep Social TW applies UniRep Protocol and provides you with completely anonymous social media. All content on the platform will be on-chain. You can post, comment, and vote with randomized identity so that your actions cannot be tracked. We also have a reputation system to avoid malicious behavior on the platform. We aim to protect your identity privacy and allow you to enjoy the equality of sharing your interesting thoughts safely! 
 
-## What is UniRep? 
-UniRep is a private and non-repudiable data system. Users can receive attestations from attesters, and voluntarily prove facts about their data without revealing the data itself. Moreover, users cannot refuse to receive attestations from an attester.
+## What is UniRep Protocol? 
+UniRep is a private and non-repudiable data system. Users can receive attestations from attesters and voluntarily prove facts about their data without revealing the data itself. Moreover, users cannot refuse to receive attestations from an attester.
 
 ## Looking for more information?
-Join our [Discord server](https://discord.gg/ERewdVR9). Stay tuned to our upcoming website 🙌🏻
+* Join our [Discord server](https://discord.gg/ERewdVR9). Stay tuned to our upcoming website 🙌🏻
+* We plan to release the beta testing in Q2 2024, let us know if you're interested in joining the test. 
 
 ## Ways to contribute
 * 🔧 Work on [open issues](https://github.com/social-tw/social-tw-website/issues)
+* 🙌🏻 Apply to [join the beta testing](https://forms.gle/1v4FJUz9fwuLLC4P6) when we release it. 
 * 📦 Suggest new developer tools or share ideas for new features ([Discord Chat](https://discord.gg/ERewdVR9))
 
 <!-- ## Who are we?
